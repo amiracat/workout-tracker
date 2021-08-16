@@ -121,6 +121,20 @@ const workoutSeed = [
         reps: 10,
         sets: 4,
       },
+      {
+        type: 'resistance',
+        name: 'Free weights',
+        duration: 20,
+        weight: 40,
+        reps: 10,
+        sets: 2,
+      },
+      {
+        type: 'cardio',
+        name: 'elliptical',
+        duration: 30,
+        distance: 4,
+      },
     ],
   },
 ];

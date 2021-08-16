@@ -47,7 +47,7 @@ function handleWorkoutTypeChange(event) {
   }
 
   validateInputs();
-}
+};
 
 function validateInputs() {
   let isValid = true;
@@ -135,7 +135,7 @@ function clearInputs() {
   repsInput.value = "";
   resistanceDurationInput.value = "";
   weightInput.value = "";
-}
+};
 
 if (workoutTypeSelect) {
   workoutTypeSelect.addEventListener("change", handleWorkoutTypeChange);
