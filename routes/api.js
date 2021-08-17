@@ -3,10 +3,10 @@ const router = require("express").Router();
 const db = require("../models");
 
 // .sort({ date: -1 })
-//get all workouts - SOMETHING NOT RIGHT HERE
+//get all workouts - try writing using a for loop instead of forEach
 router.get("/api/workouts", (req, res) => {
     db.Workout.find({}).then(dbWorkout => {
-            db.Workout.forEach(workout => {
+            dbWorkout.forEach(workout => {
                 let total = 0;
                 workout.exercises.forEach(e => {
                     total += e.duration;
