@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-The Workout Tracker is an interactive application that allows you to create and track daily workouts.
+The Workout Tracker is an interactive application that allows you to create and track daily workouts. It is deployed on Heroku.
   
 <img width="800" alt="workout-tracker-screengrab-main" src="https://user-images.githubusercontent.com/80497167/129945087-eb52c4c0-a3b3-46bc-850f-28dabcd5b532.png">
 
