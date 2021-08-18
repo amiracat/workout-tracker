@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-The Workout Tracker is an interactive full-stack application that allows you to xxxxxxxxx.
+The Workout Tracker is an interactive application that allows you to create and track daily workouts.
   
 [add screenshot]
   
@@ -26,7 +26,9 @@ To use this application, navigate to the deployed Heroku [site](https://workout-
   
  *  Express.js
   
- * MongoDB and Mongoose
+ *  MongoDB and MongoDB Atlas
+
+ *  Mongoose
   
  *  [Heroku](https://workout-tracker-deluxe.herokuapp.com/)
   
@@ -34,8 +36,7 @@ To use this application, navigate to the deployed Heroku [site](https://workout-
   
 ## Usage
 
-If you use the application through the deployed [Heroku site](https://workout-tracker-deluxe.herokuapp.com/), simply navigate to and interact with the site from there. The site will prompt you to create a new workout where you can add multiple exercises, or continue your current workout if you've already started one. 
-  Users can select a character: 
+Navigate to the application through the deployed [Heroku site](https://workout-tracker-deluxe.herokuapp.com/). The site will prompt you to create a new workout where you can add multiple exercises, or continue your current workout if you've already started one.  
   
   ## License
   
