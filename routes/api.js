@@ -2,7 +2,6 @@ const router = require("express").Router();
 // const Workout = require("../models/workout.js");
 const db = require("../models");
 
-// .sort({ date: -1 })
 //get all workouts - try writing using a for loop instead of forEach
 router.get("/api/workouts", (req, res) => {
     db.Workout.find({}).then(dbWorkout => {
