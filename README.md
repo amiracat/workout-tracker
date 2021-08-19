@@ -8,7 +8,7 @@ The Workout Tracker is an interactive application that allows you to create and 
   
 <img width="800" alt="workout-tracker-screengrab-main" src="https://user-images.githubusercontent.com/80497167/129945087-eb52c4c0-a3b3-46bc-850f-28dabcd5b532.png">
 
-When you click on the Dashboard link at the top of the app, you will see charts that detail your exercise stats in a fun visual format.
+When you click on the Dashboard link at the top of the app, you will see charts that detail your exercise stats in a fun visual format. The charts will include the previous seven days of stats.
 
 <img width="800" alt="workout-tracker-screengrab-stats" src="https://user-images.githubusercontent.com/80497167/129945353-45a469ed-4fb6-4a29-a532-57e5c27d476a.png">
 
